@@ -1,6 +1,6 @@
 # Marketing Campaign Performance Analysis
 
-![Campaign Analysis Dashboard](page-0001.jpg)
+![](page-0001.jpg)
 
 ## Introduction
 This Power BI project analyzes marketing campaign performance metrics across various dimensions including channels, devices, geographic locations, and ad performance. The analysis aims to optimize campaign effectiveness and drive data-driven marketing decisions.
