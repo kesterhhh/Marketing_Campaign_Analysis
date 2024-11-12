@@ -136,14 +136,13 @@ The dataset now follows a star schema model to facilitate efficient performance 
 **Timeline:** Immediate rollout over 60 days
 **Expected Outcome:** 30% increase in targeted city conversion rates
 
+## Link to Dashboard
+Explore the full interactive dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYWIzMGE0NTItMTkxMy00MzhkLWJmNWItMzhmNzI2MTg1OTdhIiwidCI6IjUxN2QzNTAyLTI5MDEtNGRlMi1hODdiLTk1YzUwN2E5YTA4OCJ9)
+
 ## Conclusion
 The analysis reveals significant opportunities for campaign optimization across channels, devices, and geographic locations. By implementing the recommended action plan, we can expect improved campaign performance and ROI. Key focus areas should be:
 - Leveraging Pinterest's high ROI potential
 - Optimizing desktop conversion paths
 - Capitalizing on summer campaign effectiveness
 - Focusing on high-performing geographic locations
-
-## Link to Dashboard
-You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiYWIzMGE0NTItMTkxMy00MzhkLWJmNWItMzhmNzI2MTg1OTdhIiwidCI6IjUxN2QzNTAyLTI5MDEtNGRlMi1hODdiLTk1YzUwN2E5YTA4OCJ9)
-
 ---
