@@ -37,7 +37,8 @@ The data underwent rigorous cleaning and transformation in Microsoft SQL Server,
 - NULL value analysis
 - Quality assurance checks
 
-[Include SQL Script Screenshot Here]
+For detailed information on the data cleaning process and data quality tests performed, please refer to the following folder:
+- SQL Script
 
 ### Data Quality Tests Performed
 1. Record count validation (9,900 rows)
