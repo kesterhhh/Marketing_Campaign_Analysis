@@ -3,7 +3,7 @@
 ![](page-0001.jpg)
 
 ## Introduction
-This Power BI project analyzes marketing campaign performance metrics across various dimensions including channels, devices, geographic locations, and ad performance. The analysis aims to optimize campaign effectiveness and drive data-driven marketing decisions.
+This Power BI project analyzes marketing campaign performance metrics across various dimensions including seasons, channels, devices, geographic locations, and ad performance. The analysis aims to optimize campaign effectiveness and drive data-driven marketing decisions.
 
 **_Disclaimer_**: _The data used in this report is from the ONYX Data Archive and is intended solely for demonstration and educational purposes._
 
