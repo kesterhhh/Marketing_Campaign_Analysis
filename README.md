@@ -71,8 +71,9 @@ The dataset now follows a star schema model to facilitate efficient performance 
 
 ## Analysis
 1. **Overview**: Seasonal performance analysis
-   - Summer led revenue generation (£166,387.28 peak in July)
+   - Fall led revenue generation (£258,588.37 peak in November)
    - Fall dominated impressions (2.1M+ in November)
+   - Summer is the most cost efficient with the highest ROI of £13.10
 
 2. **Campaign Performance**
    - Instagram: 15,590 conversions
